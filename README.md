@@ -2,10 +2,15 @@
 
 I'm a Developer working in Canada.
 
-BIO
+#BIO
 
 - 🔭 I'm currently working at CDPDJ
-- ⚙️ I use daily : .js, .html, .css, .cs, .vb
+- ⚙️ I use daily: .js, .html, .css, .cs, .vb
+- 🌍 I'm mostly active within the __Telerik, Bootstrap, RDBMS__
+- 🌱 Learning all about __Open Source__
+- 💬 Ping me about development
+- 📫 Reach me: [https://twitter.com/imovila](twitter.com/imovila)
+- 
 <!--
 **imovila/imovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
