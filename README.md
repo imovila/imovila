@@ -2,7 +2,7 @@
 
 I'm a Developer working in Canada.
 
-# BIO
+### BIO
 
 - 🔭 I'm currently working at CDPDJ
 - ⚙️ I use daily: .js, .html, .css, .cs, .vb
