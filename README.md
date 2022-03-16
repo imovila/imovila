@@ -9,8 +9,7 @@ I'm a Developer working in Canada.
 - 🌍 I'm mostly active within the __Telerik, Bootstrap, RDBMS__
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
-- 📫 Reach me: [https://twitter.com/imovila](twitter.com/imovila)
-- 
+- 📫 Reach me: [https://twitter.com/imovila](https://twitter.com/imovila)
 <!--
 **imovila/imovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
