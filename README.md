@@ -2,6 +2,10 @@
 
 I'm a Developer working in Canada.
 
+BIO
+
+- 🔭 I'm currently working at CDPDJ
+- ⚙️ I use daily : .js, .html, .css, .cs, .vb
 <!--
 **imovila/imovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
