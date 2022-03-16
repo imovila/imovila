@@ -5,7 +5,7 @@ I'm a Developer working in Canada.
 ### BIO
 
 - 🔭 I'm currently working at CDPDJ
-- ⚙️ I use daily: _`.js`_, .html, .css, .cs, .vb
+- ⚙️ I use daily: _`.js`_, _`.html`_, _`.css`_, _`.cs`_, _`.vb`_
 - 🌍 I'm mostly active within the __Telerik, Bootstrap, RDBMS__
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
