@@ -5,8 +5,8 @@ I'm a Developer working in Canada.
 ### BIO
 
 - 🔭 I'm currently working at CDPDJ
-- ⚙️ I use daily: _`.js`_, _`.html`_, _`.css`_, _`.cs`_, _`.vb`_, _`.py`_
-- 🌍 I'm mostly active within the __Telerik, Bootstrap, RDBMS__
+- ⚙️ I use daily: _`.js`_, _`.razor`_, _`.cs`_, _`.vb`_, _`.py`_, _`.sql`_
+- 🌍 I'm mostly active within the __C#, ASP.NET Core, Telerik, RDBMS__
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
 - 📫 Reach me: [https://twitter.com/imovila](https://twitter.com/imovila)
