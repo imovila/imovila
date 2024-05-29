@@ -1,7 +1,11 @@
 ### Hi there 👋
+
 ### The guy on the left is me. 😄
+
 [![@imovila's Holopin board](https://holopin.io/api/user/board?user=imovila)](https://holopin.io/@imovila)
+
 ---
+
 ### BIO
 
 - 🔭 I'm currently working at CDPDJ
