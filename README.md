@@ -9,7 +9,6 @@
 - 🌍 I'm mostly active within the __C#, ASP.NET Core, Telerik, RDBMS__
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
-- 📫 Reach me: [https://twitter.com/imovila](https://twitter.com/imovila)
 - ⚡ A fun fact about developers is that Ada Lovelace, a woman from the 1800s, is considered the world's first computer programmer. She wrote the first algorithm intended for a computing machine, Charles Babbage's Analytical Engine.
 <!--
 **imovila/imovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
