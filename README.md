@@ -14,10 +14,6 @@
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
 - ⚡ A fun fact about developers is that Ada Lovelace, a woman from the 1800s, is considered the world's first computer programmer. She wrote the first algorithm intended for a computing machine, Charles Babbage's Analytical Engine.
-
-### 😉: Programming Joke :
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 <!--
 **imovila/imovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +44,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### 😉: Programming Joke :
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ---
 
