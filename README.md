@@ -1,3 +1,4 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imovila&theme=dark&background=000000)](https://git.io/streak-stats)
 ### Hi there 👋
 ### The guy on the left is me. 😄
 
