@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Developer working in Canada.
+### The guy on the left is me. 😄
 
 ### BIO
 
