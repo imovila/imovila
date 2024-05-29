@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=imovila&style=flat-square&color=blue" alt=""/>
+
 ### The guy on the left is me. 😄
 
 [![@imovila's Holopin board](https://holopin.io/api/user/board?user=imovila)](https://holopin.io/@imovila)
