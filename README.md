@@ -1,8 +1,4 @@
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 ### Hi there 👋
-
-<img src="https://komarev.com/ghpvc/?username=imovila&style=flat-square&color=blue" alt=""/>
 
 ### The guy on the left is me. 😄
 
@@ -18,6 +14,10 @@
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
 - ⚡ A fun fact about developers is that Ada Lovelace, a woman from the 1800s, is considered the world's first computer programmer. She wrote the first algorithm intended for a computing machine, Charles Babbage's Analytical Engine.
+
+### 😉: Programming Joke :
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 <!--
 **imovila/imovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imovila&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=imovila&style=flat-square&color=blue" alt=""/>
