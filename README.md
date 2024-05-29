@@ -1,3 +1,5 @@
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Hi there 👋
 
 ### The guy on the left is me. 😄
