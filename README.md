@@ -2,7 +2,7 @@
 
 ### The guy on the left is me. 😄
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=imovila)](https://holopin.io/@rphi)
+[![@imovila's Holopin board](https://holopin.io/api/user/board?user=imovila)](https://holopin.io/@imovila)
 
 ### BIO
 
