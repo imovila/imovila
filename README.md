@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working at [:)]
 - ⚙️ I use daily: _`.js`_, _`.razor`_, _`.cs`_, _`.vb`_, _`.py`_, _`.sql`_
-- 🌍 I'm mostly active within the __C#, ASP.NET Core, Telerik, RDBMS__
+- 🌍 I'm mostly active within the __C#, ASP.NET Core Blazor, Telerik, RDBMS__
 - 🌱 Learning all about __Open Source__
 - 💬 Ping me about development
 - ⚡ A fun fact about developers is that Ada Lovelace, a woman from the 1800s, is considered the world's first computer programmer. She wrote the first algorithm intended for a computing machine, Charles Babbage's Analytical Engine.
