@@ -8,7 +8,7 @@
 
 ### BIO
 
-- 🔭 I'm currently working at CCQ
+- 🔭 I'm currently working at [:)]
 - ⚙️ I use daily: _`.js`_, _`.razor`_, _`.cs`_, _`.vb`_, _`.py`_, _`.sql`_
 - 🌍 I'm mostly active within the __C#, ASP.NET Core, Telerik, RDBMS__
 - 🌱 Learning all about __Open Source__
